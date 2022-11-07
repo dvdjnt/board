@@ -1,2 +1,1 @@
-# board
-board for ideas
+# moodboard with photos
